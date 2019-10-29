@@ -1,0 +1,135 @@
+body {
+	margin: 0px;
+	padding: 0px;
+
+}
+body h1 {
+	font-family: sans-serif;
+}
+header {
+	height: 150px;
+	width: 100%;
+	background-color:#989898;
+	/*display: flex;
+	align-items: center;*/
+}
+
+header h1 {
+	width: 1080px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.fold {
+	height: 550px;
+	width: 100%;
+	background-color:#55ff9a;
+	/*display: flex;
+	align-items: center;*/
+}
+.fold h1{
+	width: 1080px;
+	margin: 0 auto;
+	padding-top: 240px;
+}
+.block1 {
+	height: 620px;
+	width: 1080px;
+	text-align: center;
+    background-color: #feaaa8;
+	padding: 5px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	/*display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;*/
+}
+.block1 h1{
+	width: 100%; 
+}
+/*.block1, */
+.block1 p {
+	padding: 80px; 
+}
+.photo {
+	/*display: flex;
+	align-items: center;
+	justify-content: center;*/
+	height: 225px;
+	width: 515px;
+	background-color: #7f7f7f;
+	text-align: center;
+	float: left;
+	margin: 11px;
+}
+
+.photo1 {
+	/*display: flex;
+	align-items: center;
+	justify-content: center;*/
+	height: 225px;
+	width: 515px;
+	background-color: #7f7f7f;
+	text-align: center;
+	float: left;
+	margin: 40px;
+}
+
+.block2 {
+	height: 420px;
+	width: 100%;
+	background-color: #7f807b;
+	/*display: flex;
+	justify-content: space-between;
+	align-items: center;*/
+	padding: 0 20px ;
+	padding-left: 50px;
+}
+.block2 .photo1{
+	width: 360px;
+	height: 350px;
+	background-color: #cacaca;
+	/*display: flex;
+	justify-content: center;
+	align-items: center;*/
+}
+
+.block2 p {
+	padding-top: 147px;
+}
+.block3 {
+	max-width: 1080px;
+    background-color: #feaaa8;
+	padding: 20px 0;
+	margin: 0 auto;
+}
+.block3 h1 {
+	text-align: center;
+}
+.block3 .box-content{
+	width: 100%;
+	background-color: #ffdc58;
+	/*display: flex;
+	align-items: center;
+	justify-content: center;*/
+	padding: 100px 0;
+}
+footer {
+	height: 550px;
+	width: 100%;
+    background-color: #4c4c4c;
+	padding: 5px 0;
+	/*display: flex;
+	justify-content: center;
+	align-items: center;*/
+}
+footer h1 {
+	text-align: center;
+	color: #fff;
+	padding: 200px;
+}
+.foto1{
+	width: 100%;
+	height: 235px;
+}
